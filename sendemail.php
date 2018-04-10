@@ -1,6 +1,7 @@
 <?php
 
 //this is comment
+//this is 2nd comment
     session_cache_limiter( 'nocache' );
     header( 'Expires: ' . gmdate( 'r', 0 ) );
     header( 'Content-type: application/json' );
